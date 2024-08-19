@@ -1,0 +1,29 @@
+.navbar{
+    list-style-type:none;
+    background-color: rgb(14, 13, 13);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center; 
+}
+.navbar a:hover{
+    background-color: grey;
+}
+.navbar li{
+    float: left;
+}
+
+h4{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: right;
+    align-items: normal;
+}
